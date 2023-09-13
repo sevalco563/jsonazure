@@ -337,7 +337,7 @@
             ]
         },
         "networkInterfaceConfigurationSubnet1BYOL": {
-            "name": "nic-config-subnet01",
+            "name": "nic-config-subnet1",
             "properties": {
                 "primary": true,
                 "enableIPForwarding": true,
